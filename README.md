@@ -1,5 +1,2 @@
-# LinuxAsmCode
-
-AT&amp;T风格汇编代码
-
-用来存储汇编学习的代码记录
+# AT&T风格汇编教程系列博文
+[AT&T汇编[1]-内存构造与寻址方式](https://chan1919.fun/2022/07/30/asm-linux-AT&T/#)
